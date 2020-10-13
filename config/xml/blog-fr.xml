@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/fr/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/fr/blog/feed.xml</link>
+    <description></description>
+    <language>fr</language>
+     <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>PrestaShop Metrics, le nouvel outil analytique qui centralise toutes les données e-commerce</title>
+    <link>https://www.prestashop.com/fr/blog/prestashop-metrics</link>
+    <description>L’analyse des données, dans le secteur du e-commerce peut-être encore plus qu’ailleurs, est indispensable au pilotage du business.</description>
+     <pubDate>Thu, 08 Oct 2020 11:05:33 +0200</pubDate>
+ <dc:creator>Pierre-Olivier Calande</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/prestashop-metrics</guid>
+  </item>
+  <item>
+    <title>L’hyperpersonnalisation dans le Marketing Automation</title>
+    <link>https://www.prestashop.com/fr/blog/hyperpersonnalisation-marketing-automation</link>
+    <description>L’intelligence artificielle révolutionne le monde du marketing en apportant une connaissance aiguë des clients et des produits.</description>
+     <pubDate>Tue, 06 Oct 2020 18:05:33 +0200</pubDate>
+ <dc:creator>Loudvic Salcède</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/hyperpersonnalisation-marketing-automation</guid>
+  </item>
+  <item>
+    <title>Livraison le jour même : la nouvelle norme de l&amp;#039;e-commerce ?</title>
+    <link>https://www.prestashop.com/fr/blog/livraison-jour-meme</link>
+    <description>L&#039;industrie du e-commerce a de beaux jours devant elle. Ce mode de consommation à la croissance continue est devenu une habitude pour beaucoup de consommateurs.</description>
+     <pubDate>Mon, 05 Oct 2020 17:03:17 +0200</pubDate>
+ <dc:creator>Mickaël Benamran</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/livraison-jour-meme</guid>
+  </item>
+  <item>
+    <title>Les paiements de A à Z  – Chapitre 1 : optimisez l’expérience d’achat</title>
+    <link>https://www.prestashop.com/fr/blog/paiements-experience-achat</link>
+    <description>Un des enjeux majeurs du secteur de l’e-commerce réside dans le paiement en ligne.</description>
+     <pubDate>Fri, 02 Oct 2020 16:26:05 +0200</pubDate>
+ <dc:creator>Lucie Gimon FR</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/paiements-experience-achat</guid>
+  </item>
+  <item>
+    <title>L&amp;#039;importance de la traduction dans l&amp;#039;internationalisation de votre e-commerce</title>
+    <link>https://www.prestashop.com/fr/blog/traduction-internationalisation-e-commerce</link>
+    <description>L&#039;expansion internationale est un facteur particulièrement important pour la croissance des ventes de votre boutique en ligne.</description>
+     <pubDate>Mon, 28 Sep 2020 16:23:16 +0200</pubDate>
+ <dc:creator>Sara Lázaro FR</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/traduction-internationalisation-e-commerce</guid>
+  </item>
+  <item>
+    <title>Une migration vers PrestaShop réussie pour Dream Extension</title>
+    <link>https://www.prestashop.com/fr/blog/migration-oxatis-prestashop-dream-extensions</link>
+    <description>Migrer son site e-commerce est une décision stratégique qui peut être redoutée par certains marchands. Pourtant, le changement est souvent très bénéfique.</description>
+     <pubDate>Fri, 25 Sep 2020 12:14:00 +0200</pubDate>
+ <dc:creator>L&#039;équipe PrestaShop</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/migration-oxatis-prestashop-dream-extensions</guid>
+  </item>
+  <item>
+    <title>Comment analyser la concurrence avant de monter son entreprise ?</title>
+    <link>https://www.prestashop.com/fr/blog/analyser-concurrence-entreprise</link>
+    <description>Vous montez votre entreprise de vente en ligne ?</description>
+     <pubDate>Wed, 23 Sep 2020 11:58:02 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/analyser-concurrence-entreprise</guid>
+  </item>
+  <item>
+    <title>Comment ajouter du contenu en-dessous des produits sur ses pages catégories PrestaShop ?</title>
+    <link>https://www.prestashop.com/fr/blog/pages-categories-contenu</link>
+    <description>Les pages de catégories produits ont une importance capitale en référencement naturel.</description>
+     <pubDate>Fri, 18 Sep 2020 17:06:35 +0200</pubDate>
+ <dc:creator>Harmonie Andrieu</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/pages-categories-contenu</guid>
+  </item>
+  <item>
+    <title>Marketplaces : quelles sont les principales difficultés rencontrées par les marchands, et quelles sont les solutions ?</title>
+    <link>https://www.prestashop.com/fr/blog/marketplaces-marketfire-solutions</link>
+    <description>À l’occasion de la sortie du </description>
+     <pubDate>Tue, 15 Sep 2020 18:11:18 +0200</pubDate>
+ <dc:creator>L&#039;équipe PrestaShop</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/marketplaces-marketfire-solutions</guid>
+  </item>
+  <item>
+    <title>Une passerelle de paiement e-commerce, qu&amp;#039;est-ce que c&amp;#039;est ?</title>
+    <link>https://www.prestashop.com/fr/blog/passerelle-paiement-e-commerce</link>
+    <description>Pour accepter des paiements via votre site internet, vous avez besoin d&#039;une passerelle de paiement.</description>
+     <pubDate>Mon, 14 Sep 2020 17:57:16 +0200</pubDate>
+ <dc:creator>Arina Drucioc FR</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/passerelle-paiement-e-commerce</guid>
+  </item>
+  </channel>
+</rss>
